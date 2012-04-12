@@ -13,3 +13,10 @@ Task List application progress
 ------------------------------
 
 Yet to be started
+
+What's not in the repository?
+-----------------------------
+
+* The [Virtualenv](http://www.virtualenv.org/) (v1.7)
+  * With [Python](http://www.python.org/) (v2.7.3) installed
+  * With [Flask](http://flask.pocoo.org/) (v0.8) installed
