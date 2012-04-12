@@ -34,8 +34,8 @@ PHP
 * CodeIgniter - <http://codeigniter.com/>
 * Symfony - <http://symfony.com/>
 * Yii - <http://www.yiiframework.com/>
-* Slim ![](http://i.imgur.com/q7QV7.png "Micro Framework") - <http://www.slimframework.com/>
-* Twitto ![](http://i.imgur.com/q7QV7.png "Micro Framework") - <http://twitto.org/>
+* Slim - <http://www.slimframework.com/> ![](http://i.imgur.com/q7QV7.png "Micro Framework")
+* Twitto - <http://twitto.org/> ![](http://i.imgur.com/q7QV7.png "Micro Framework")
 
 Python
 ------
@@ -43,13 +43,13 @@ Python
 * Django - <http://djangoproject.com/>
 * Pylons - <http://www.pylonsproject.org/>
 * web2py - <http://www.web2py.com/>
-* Flask ![](http://i.imgur.com/q7QV7.png "Micro Framework") ![](http://i.imgur.com/sOn8d.png) - <http://flask.pocoo.org/>
+* Flask - <http://flask.pocoo.org/> ![](http://i.imgur.com/q7QV7.png "Micro Framework")&nbsp;![](http://i.imgur.com/sOn8d.png)
 
 Ruby
 ----
 
 * Ruby on Rails - <http://rubyonrails.org/>
-* Sinatra ![](http://i.imgur.com/q7QV7.png "Micro Framework") - <http://www.sinatrarb.com/> 
+* Sinatra - <http://www.sinatrarb.com/> ![](http://i.imgur.com/q7QV7.png "Micro Framework")
 
 What else?
 ==============
