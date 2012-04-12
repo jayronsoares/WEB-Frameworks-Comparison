@@ -34,20 +34,39 @@ PHP
 * CodeIgniter - <http://codeigniter.com/>
 * Symfony - <http://symfony.com/>
 * Yii - <http://www.yiiframework.com/>
+* Slim ![](http://i.imgur.com/q7QV7.png "Micro Framework") - <http://www.slimframework.com/>
+* Twitto ![](http://i.imgur.com/q7QV7.png "Micro Framework") - <http://twitto.org/>
 
 Python
 ------
 
 * Django - <http://djangoproject.com/>
-* Flask - <http://flask.pocoo.org/>
 * Pylons - <http://www.pylonsproject.org/>
 * web2py - <http://www.web2py.com/>
+* Flask ![](http://i.imgur.com/q7QV7.png "Micro Framework") ![](http://i.imgur.com/sOn8d.png) - <http://flask.pocoo.org/>
 
 Ruby
 ----
 
 * Ruby on Rails - <http://rubyonrails.org/>
-* Sinatra - <http://www.sinatrarb.com/> 
+* Sinatra ![](http://i.imgur.com/q7QV7.png "Micro Framework") - <http://www.sinatrarb.com/> 
+
+What else?
+==============
+
+HTML & CSS
+----------
+
+I will use the [Twitter Bootstrap](http://twitter.github.com/bootstrap/) (v.2.0.2) for the project markup, as you can see here:
+
+https://github.com/TiuTalk/WEB-Frameworks-Comparison/tree/master/resources/markup
+
+Database
+--------
+
+I will try to use [SQLite3](http://www.sqlite.org/) whenever possible, this way I can push the database (**.db** file) with the project.
+
+If one of these frameworks doesn't support SQLite3 i'll stick with the good ol' [MySQL](http://www.mysql.com/) and include the **.sql** file on the project.
 
 
 Disclaimer
