@@ -32,7 +32,7 @@ PHP
 * CakePHP - <http://cakephp.org/>
 * Zend Framework - <http://framework.zend.com/>
 * CodeIgniter - <http://codeigniter.com/>
-* Symfony - <http://www.symfony-project.org/>
+* Symfony - <http://symfony.com/>
 * Yii - <http://www.yiiframework.com/>
 
 Python
